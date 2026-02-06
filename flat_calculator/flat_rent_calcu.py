@@ -7,4 +7,5 @@ persons = int(input('Enter the number of persons living in room = '))
 total_bill = electricity_bill*charge_per_unit
 output = (food+rent+total_bill) //persons
 
+
 print('Each persons bill pay = ', output)
